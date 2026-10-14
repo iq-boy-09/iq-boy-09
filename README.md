@@ -66,8 +66,9 @@ class F4DID:
 
 | Project | What it is | Status |
 | :--- | :--- | :---: |
-| **BioIQ** | A browser-based Biology learning and practice platform for NEET preparation. | `building` |
-| **Shinketsu** | A Telegram bot for organizing study resources and PDFs. | `experimenting` |
+| **BioIQ** | A browser-based Biology learning and practice platform for NEET preparation. | `Done` |
+| **Shinketsu** | A Telegram bot for organizing study resources and PDFs. | `Done` |
+| **F4 NEET OS** | Interactive Study site for medical students. | `In progress` |
 | **F4DID Lab** | A sandbox for web development, automation, interfaces, and small tools. | `always on` |
 
 ## `./tech_stack`
