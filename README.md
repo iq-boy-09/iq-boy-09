@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:7c3aed&height=220&section=header&text=F4DID.exe&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=code%20%E2%80%A2%20create%20%E2%80%A2%20debug%20%E2%80%A2%20repeat&descAlignY=60&descSize=18" width="100%" alt="Animated F4DID header" />
 
 <a href="https://github.com/iq-boy-09">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Developer+in+progress+%F0%9F%9A%80;Building+useful+things+from+curious+ideas;Automation+%7C+APIs+%7C+Systems+%7C+UI%2FUX;Always+learning%2C+always+shipping" alt="Animated intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Developer+%F0%9F%9A%80;Building+useful+things+from+curious+ideas;Automation+%7C+APIs+%7C+Systems+%7C+UI%2FUX;Always+learning%2C+always+shipping" alt="Animated intro" />
 </a>
 
 <br />
